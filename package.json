@@ -1,10 +1,11 @@
 {
   "scripts": {
-    "demo": "ts-node hello.ts"
+    "start": "ts-node hello.ts"
   },
   "devDependencies": {
     "@types/node": "13.7.7",
-    "ts-node": "8.6.2",
-    "typescript": "3.8.3"
+    "ts-node": "10.9.1",
+    "typescript": "4.8.4",
+    "@gitbeaker/node": "35.7.0"
   }
 }

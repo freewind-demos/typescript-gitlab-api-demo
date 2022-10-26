@@ -1,18 +1,9 @@
-TypeScript Hello World Demo
+TypeScript GitLab Api Demo
 ===========================
+
+如何使用gitlab的api
 
 ```
 npm install
-npm run demo
+npm start
 ```
-
-Note:
-
-`esModuleInterop` is recommended to set to `true`,
-since we can have consistent importing syntax with babel,
-always use:
-
-```
-import some from 'some'
-```
-
